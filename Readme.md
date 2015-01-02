@@ -2,6 +2,13 @@
 
 ## Usage
 
+### install
+```
+go get github.com/daiksy/typetalk4g
+```
+
+## example
+
 ### post messages
 ```go
 package main

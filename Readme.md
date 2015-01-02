@@ -3,7 +3,7 @@
 ## Usage
 
 ### post messages
-```golang
+```go
 package main
 
 import (
@@ -26,7 +26,7 @@ func main() {
 ```
 
 ### get messages
-```golang
+```go
 package main
 
 import (
